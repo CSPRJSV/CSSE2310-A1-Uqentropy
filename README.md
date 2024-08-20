@@ -8,5 +8,5 @@
 
 欢迎有需要辅导的同学dd～
 
-![1](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-1.png)
+![1]([https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-1.png](https://github.com/CSPRJSV/CSSE2310-A1-Uqentropy/blob/main/csse2310-A1-ad.png))
 
